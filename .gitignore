@@ -1,0 +1,6 @@
+dataset/
+__pycache__/
+srl_data/
+srl_output/
+conll_ner_pos_bert_base/
+processing/
