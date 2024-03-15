@@ -2,3 +2,4 @@ multi_task_model_9_204.pt
 coNLL_data/
 conll_ner_pos_bert_base/
 content/
+proba/

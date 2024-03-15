@@ -1,3 +1,5 @@
-coNLL_data/
+conll_data/
 content/
 pt/
+wordembedding/
+conl_ner_pos_bert_base/
